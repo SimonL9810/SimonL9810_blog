@@ -1,0 +1,66 @@
+---
+title: "Le loup gris"
+description: |
+  Grey wolf description.
+author:
+  - name: Simon Liénard
+    url: {}
+  - name: Nicolas Devilez
+    url: {}
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: 11-05-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Grey wolf
+
+## Classification
+
+-Screw in **packs** of 5 to 11 animals
+-Breeding pair raises  wolf cubs and then separates from the pack after **10 to 54 months**
+-Packs are **on the move** in their territory to find food. This territory is more or less 35 km².
+
+## Morphology
+
+Males and females have morphological differences presented in this table.
+
+Male | Female
+------------- | -------------
+ 1,65 m| 1,59 m
+ 20 à 70 kg | 16 à 50 kg
+ 
+## Food
+
+The grey wolf is a strict carnivore.
+
+**Prey**
+
+* Big size
+    + Elk
+    + Original
+    + Bison
+ 
+* Medium size
+    + Sheep
+    + Roe deer
+ 
+* Small siez
+    + type Mus (mouse, shrew,...)
+ 
+ Wolf hunting is divided into ** 5 steps **: Locating the prey, stalking, meeting, assaulting and chasing.
+ 
+## Reproduction
+
+The gray wolf is often ** monogamous **. Couples usually stay together their entire lives.
+After ** 62 to 75 days ** of gestation, the female gives birth to 5 to 6 cubs. The mother breastfeeds the babies until they are 3 to 4 weeks old. After ** 6-7 months **, Cubs are mature enough to accompany adults on the hunt. The wolf reaches sexual maturity around the age of 2 and the male around the age of 3.
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
